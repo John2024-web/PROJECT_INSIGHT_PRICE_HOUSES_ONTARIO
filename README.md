@@ -25,5 +25,5 @@ Nosso cliente quer saber:
 ### As melhores áreas em Ontário! 
 
 <div align="left">
-<img src="https://user-images.githubusercontent.com/110690751/200132700-f6564169-9f2b-4901-91bd-4ed7ac712707.jpeg" width="4000px" />
+<img src="https://user-images.githubusercontent.com/110690751/200132700-f6564169-9f2b-4901-91bd-4ed7ac712707.jpeg" width="600px" />
 </div>
